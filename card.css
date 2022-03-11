@@ -1,0 +1,104 @@
+.container{
+    box-sizing: border-box;
+    margin: 256px auto ;
+    border-radius: 10px;
+    width: 700px;
+    border:2px solid rgba(243, 179, 83, 0.945);
+    text-align: center;
+    background-color: rgba(243, 179, 83, 0.945);
+    
+
+}
+
+h1{
+    font-family: 'Fredoka', sans-serif;
+
+}
+.name{
+    font-family: 'Fredoka', sans-serif;
+    padding: 3px;
+    font-size: 20px;
+}
+
+.socials{
+    font-family: 'Fredoka', sans-serif;
+    padding: 3px;
+    font-size: 20px;
+}
+
+.email{
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;
+    margin-top: -18px;
+
+}
+
+.student{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Pacifico', cursive;
+    padding: 11px;
+    margin-top: 2px;
+}
+
+#link{
+    color: black;
+}
+.hobby{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Pacifico', cursive;
+    padding: 11px;
+}
+.interest{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Pacifico', cursive;
+    padding: 11px;
+}
+.passion{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Pacifico', cursive;
+    padding: 11px;
+}
+
+
+body {
+    background-image: linear-gradient(
+      rgba(17, 31, 226,0.5),
+      rgba(248, 248, 247, 0.8)
+    );
+    background-repeat: none;
+}
+
+@media screen and (max-width: 700px){
+    .container{
+        width: 300px;
+    }
+
+   
+    
+}
+
+.codepen{
+    width: 35px;
+    height:35px;
+    padding: 10px;
+}
+
+.twitter{
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+}
+.linkedin{
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+}
+.github{
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+}
